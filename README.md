@@ -1,11 +1,20 @@
 # Awesome Frames
 
-## Boilerplate Make a Frame starter repos
+## Boilerplate "Make a Frame starter" repos
 
 - [Next JS](https://github.com/Zizzamia/a-frame-in-100-lines)
 - [Express JS](https://github.com/SamBroner/farcaster-frames-express-template)
 - [Node JS](https://github.com/nekofar/farcaster-frames-template)
 - [Syndicate Frame API, Make an NFT](https://github.com/WillPapper/syndicate-farcaster-frame-starter)
+
+## Tools
+
+- [OnchainKit & FrameKit](https://github.com/coinbase/onchainkit)
+- [Reset metadata cache for Warpcast](https://warpcast.com/~/developers/embeds)
+- [Validate your frame for Warpcast](https://warpcast.com/~/developers/frames)
+- [Generat e dynamic open graph images with Vercel](https://vercel.com/docs/functions/edge-functions/og-image-generation)
+- [Toolkit to build onchain with Base](https://github.com/coinbase/build-onchain-apps)
+- [OG image playground using Vercel's Satori](https://og-playground.vercel.app/)
 
 ## Reference Frames code (Next.js)
 
@@ -28,15 +37,6 @@
 - [Custom LLM Flask Frame](https://github.com/mr-spaghetti-code/flaskframe)
 - [ChatGPT custom GPT, How to build frames](https://chat.openai.com/g/g-wnoTA6Mhw-how-to-build-frames-for-warpcast)
 - [FramesGPT](https://chat.openai.com/g/g-vxALnvPFA-framesgpt)
-
-## Tools
-
-- [OnchainKit & FrameKit](https://github.com/coinbase/onchainkit)
-- [Reset metadata cache for Warpcast](https://warpcast.com/~/developers/embeds)
-- [Validate your frame for Warpcast](https://warpcast.com/~/developers/frames)
-- [Generat e dynamic open graph images with Vercel](https://vercel.com/docs/functions/edge-functions/og-image-generation)
-- [Toolkit to build onchain with Base](https://github.com/coinbase/build-onchain-apps)
-- [OG image playground using Vercel's Satori](https://og-playground.vercel.app/)
 
 ## Frames implementations
 
