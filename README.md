@@ -76,6 +76,8 @@
 - [Create polls](https://polls.dep.dev/)
 - [Quizframe.xyz](https://quizframe.xyz/), [Source Code](https://github.com/w1nt3r-eth/quizframe.xyz)
 - [Create a quiz](https://frame-quiz.vercel.app/)
+- [create and earn](https://earncaster.com/)
+- 
 
 ## Frame ideas
 
