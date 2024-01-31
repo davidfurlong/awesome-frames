@@ -53,8 +53,11 @@
 
 ## Hackathons
 
+- [NYC, 28th Feb -](https://lu.ma/tyu0ypth)
+- [Austin, 1st Feb](https://blocklive.io/event/atx-frames-hackathon)
+- [Virtual deadline, 2nd Feb](https://warpcast.com/betashop.eth/0xf02fb1ad)
+- [Bengaluru, 3rd of February](https://lu.ma/5nhqyowv)
 - [London, 4th February](https://warpcast.com/oxb/0x4351707a)
-- [Bengaluru Frames Hackathon](https://lu.ma/5nhqyowv)
 
 ## Embedding Frames in your own app
 
