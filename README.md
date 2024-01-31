@@ -35,6 +35,7 @@
 - [Netheria Text Based Mini Game Frame](https://gist.github.com/0xdeployer/3b9652e511485a0a088be708da6635b0)
 - [2048 Game](https://github.com/Montoya/2048frame)
 - [Event Invite Frame](https://github.com/therealharpaljadeja/farcaster-event-frame)
+- [Framering](https://github.com/riotgoools/framering)
 
 ## Custom GPTs
 
