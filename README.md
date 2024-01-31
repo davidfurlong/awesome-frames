@@ -78,6 +78,7 @@
 
 - [Warpcast search](https://warpcast.com/~/search/casts?q=Frame+idea)
 - [@les](https://warpcast.com/les/0xe58eb035)
+- [@df](https://warpcast.com/df/0xfdd6e7b7)
 
 ## Frame Analytics
 
