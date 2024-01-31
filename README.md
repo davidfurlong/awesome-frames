@@ -53,6 +53,7 @@
 
 ## Hackathons
 
+- [London, 4th February](https://warpcast.com/oxb/0x4351707a)
 - [Bengaluru Frames Hackathon](https://lu.ma/5nhqyowv)
 
 ## Embedding Frames in your own app
@@ -70,6 +71,7 @@
 - [Create threads](https://github.com/Sneh1999/fc-threads)
 - [Create fc-polls](https://fc-polls.vercel.app/)
 - [Create polls](https://polls.dep.dev/)
+- [Quizframe.xyz](https://quizframe.xyz/), [Source Code](https://github.com/w1nt3r-eth/quizframe.xyz)
 - [Create a quiz](https://frame-quiz.vercel.app/)
 
 ## Frame ideas
