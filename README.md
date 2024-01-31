@@ -14,7 +14,7 @@
 - [OnchainKit & FrameKit](https://github.com/coinbase/onchainkit)
 - [Reset metadata cache for Warpcast](https://warpcast.com/~/developers/embeds)
 - [Validate your frame for Warpcast](https://warpcast.com/~/developers/frames)
-- [Generat e dynamic open graph images with Vercel](https://vercel.com/docs/functions/edge-functions/og-image-generation)
+- [Generate dynamic open graph images with Vercel](https://vercel.com/docs/functions/edge-functions/og-image-generation)
 - [Toolkit to build onchain with Base](https://github.com/coinbase/build-onchain-apps)
 - [OG image playground using Vercel's Satori](https://og-playground.vercel.app/)
 
@@ -57,6 +57,7 @@
 
 - [Client side SDK to render frames](https://docs.modprotocol.org/farcaster-frames)
 - [Post a frame action using Neynar's Farcaster signers API](https://docs.neynar.com/reference/post-frame-action)
+- [Validate a frame action using Neynar](https://docs.neynar.com/reference/validate-frame)
 
 ## What's coming next in Frames
 
@@ -65,14 +66,14 @@
 ## Frame creation sites
 
 - [Create threads](https://github.com/Sneh1999/fc-threads)
-- [Create polls](https://fc-polls.vercel.app/)
+- [Create fc-polls](https://fc-polls.vercel.app/)
 - [Create polls](https://polls.dep.dev/)
 - [Create a quiz](https://frame-quiz.vercel.app/)
 
 ## Frame ideas
 
-- [@les](https://warpcast.com/les/0xe58eb035)
 - [Warpcast search](https://warpcast.com/~/search/casts?q=Frame+idea)
+- [@les](https://warpcast.com/les/0xe58eb035)
 
 ## Frame Analytics
 
@@ -82,6 +83,12 @@
 
 - [/frames](https://warpcast.com/~/channel/frames)
 - [Launchcaster](https://www.launchcaster.xyz/)
+
+## Frames
+
+- [Paragraph, Subscribe to newsletter](https://paragraph.xyz/)
+- [Manifold](https://manifold.xyz/)
+- [Gallery](https://gallery.so/)
 
 ## Other Frames implementations
 
