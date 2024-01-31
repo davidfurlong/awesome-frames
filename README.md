@@ -35,12 +35,14 @@
 - [Netheria Text Based Mini Game Frame](https://gist.github.com/0xdeployer/3b9652e511485a0a088be708da6635b0)
 - [2048 Game](https://github.com/Montoya/2048frame)
 - [Event Invite Frame](https://github.com/therealharpaljadeja/farcaster-event-frame)
+- [Quizframe.xyz](https://github.com/w1nt3r-eth/quizframe.xyz)
 
 ## Custom GPTs
 
 - [Custom LLM Flask Frame](https://github.com/mr-spaghetti-code/flaskframe)
 - [ChatGPT custom GPT, How to build frames](https://chat.openai.com/g/g-wnoTA6Mhw-how-to-build-frames-for-warpcast)
 - [FramesGPT](https://chat.openai.com/g/g-vxALnvPFA-framesgpt)
+- [Farcaster Framer](https://chat.openai.com/g/g-rIhEYpfwV-farcaster-framer)
 
 ## Data & API Providers
 
@@ -90,13 +92,13 @@
 ## Frame launches
 
 - [/frames](https://warpcast.com/~/channel/frames)
-- [Launchcaster](https://www.launchcaster.xyz/)
+- [Launchcaster](https://www.launchcaster.xyz/?text=frame)
 
-## Frames
+## Projects that integrated Frames
 
 - [Paragraph, Subscribe to newsletter](https://paragraph.xyz/)
-- [Manifold](https://manifold.xyz/)
-- [Gallery](https://gallery.so/)
+- [Manifold, mint to connected wallet](https://manifold.xyz/)
+- [Gallery, mint to connected wallet](https://gallery.so/)
 
 ## Other Frames implementations
 
