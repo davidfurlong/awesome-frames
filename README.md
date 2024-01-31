@@ -1,5 +1,7 @@
 # Awesome Frames
 
+- [Farcaster Frames Docs](https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5)
+
 ## Boilerplate "Make a Frame starter" repos
 
 - [Next JS](https://github.com/Zizzamia/a-frame-in-100-lines)
@@ -37,12 +39,6 @@
 - [Custom LLM Flask Frame](https://github.com/mr-spaghetti-code/flaskframe)
 - [ChatGPT custom GPT, How to build frames](https://chat.openai.com/g/g-wnoTA6Mhw-how-to-build-frames-for-warpcast)
 - [FramesGPT](https://chat.openai.com/g/g-vxALnvPFA-framesgpt)
-
-## Frames implementations
-
-- [Farcaster](https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5)
-- [XMTP](https://www.npmjs.com/package/@xmtp/frames-client)
-- [Lens](https://reflect.site/g/yoginth/hey-portal-open-graph-spec/cd7225f128274da382f1f516e7e63f15)
 
 ## Data & API Providers
 
@@ -86,3 +82,8 @@
 
 - [/frames](https://warpcast.com/~/channel/frames)
 - [Launchcaster](https://www.launchcaster.xyz/)
+
+## Other Frames implementations
+
+- [XMTP](https://www.npmjs.com/package/@xmtp/frames-client)
+- [Lens](https://reflect.site/g/yoginth/hey-portal-open-graph-spec/cd7225f128274da382f1f516e7e63f15)
