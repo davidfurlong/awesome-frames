@@ -103,5 +103,5 @@
 
 ## Other Frames implementations
 
-- [XMTP](https://www.npmjs.com/package/@xmtp/frames-client)
+- [XMTP](https://community.xmtp.org/t/supporting-frames-in-xmtp/535)
 - [Lens](https://reflect.site/g/yoginth/hey-portal-open-graph-spec/cd7225f128274da382f1f516e7e63f15)
