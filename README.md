@@ -52,6 +52,7 @@
 
 - [Neynar (Farcaster)](https://neynar.com/)
 - [Airstack (Farcaster, Lens, XMTP, ENS, ...)](https://explorer.airstack.xyz/)
+- [Guide: Onchain Tx Confirmations using OnceUpon API](https://onceupon.notion.site/Public-How-to-use-tx-confirmations-in-your-Frame-w-Once-Upon-862883e5e15a49d5bc5005df69dc627f)
 
 ## Bounties & rewards for building Frames
 
