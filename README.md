@@ -87,6 +87,7 @@
 - [Quizframe.xyz](https://quizframe.xyz/), [Source Code](https://github.com/w1nt3r-eth/quizframe.xyz)
 - [Create a quiz](https://frame-quiz.vercel.app/)
 - [Earncaster: Reward Farcaster users for learning about your products or ideas](https://earncaster.com/)
+- [Glass.cx](https://glass.cx/)
 
 ## Frame ideas
 
