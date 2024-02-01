@@ -8,6 +8,7 @@
 - [Express JS](https://github.com/SamBroner/farcaster-frames-express-template)
 - [Node JS](https://github.com/nekofar/farcaster-frames-template)
 - [Syndicate Frame API, Make an NFT](https://github.com/WillPapper/syndicate-farcaster-frame-starter)
+- [Simplest Frame (no framework)](https://github.com/depatchedmode/simplest-frame)
 
 ## Tools
 
@@ -38,6 +39,7 @@
 - [Event Invite Frame](https://github.com/therealharpaljadeja/farcaster-event-frame)
 - [Quizframe.xyz](https://github.com/w1nt3r-eth/quizframe.xyz)
 - [Cast gates](https://github.com/stephancill/castgates/)
+- [Framering](https://github.com/riotgoools/framering)
 
 ## Custom GPTs
 
@@ -62,6 +64,7 @@
 - [Virtual deadline, 2nd Feb](https://warpcast.com/betashop.eth/0xf02fb1ad)
 - [Bengaluru, 3rd of February](https://lu.ma/5nhqyowv)
 - [London, 4th February](https://warpcast.com/oxb/0x4351707a)
+- [Tel Aviv, 4th February](https://airtable.com/appxPSwSOcnhRjN9l/pagGzXxL2atfCNnJh/form)
 
 ## Embedding Frames in your own app
 
@@ -80,6 +83,7 @@
 - [Create polls](https://polls.dep.dev/)
 - [Quizframe.xyz](https://quizframe.xyz/), [Source Code](https://github.com/w1nt3r-eth/quizframe.xyz)
 - [Create a quiz](https://frame-quiz.vercel.app/)
+- [Earncaster: Reward Farcaster users for learning about your products or ideas](https://earncaster.com/)
 
 ## Frame ideas
 
@@ -105,5 +109,5 @@
 
 ## Other Frames implementations
 
-- [XMTP](https://www.npmjs.com/package/@xmtp/frames-client)
+- [XMTP](https://community.xmtp.org/t/supporting-frames-in-xmtp/535)
 - [Lens](https://reflect.site/g/yoginth/hey-portal-open-graph-spec/cd7225f128274da382f1f516e7e63f15)
