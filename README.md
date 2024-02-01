@@ -40,6 +40,7 @@
 - [Quizframe.xyz](https://github.com/w1nt3r-eth/quizframe.xyz)
 - [Cast gates](https://github.com/stephancill/castgates/)
 - [Framering](https://github.com/riotgoools/framering)
+- [Image gallery frame](https://github.com/Complexlity/image-gallery-frame)
 
 ## Custom GPTs
 
