@@ -41,6 +41,7 @@
 - [Cast gates](https://github.com/stephancill/castgates/)
 - [Framering](https://github.com/riotgoools/framering)
 - [Image gallery frame](https://github.com/Complexlity/image-gallery-frame)
+- [Redirect frame example](https://github.com/farcasterxyz/redirect-frame)
 
 ## Custom GPTs
 
