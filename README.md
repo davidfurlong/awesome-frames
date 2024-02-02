@@ -43,6 +43,9 @@
 - [Framering](https://github.com/riotgoools/framering)
 - [Image gallery frame](https://github.com/Complexlity/image-gallery-frame)
 - [Redirect frame example](https://github.com/farcasterxyz/redirect-frame)
+- [Are We Frens frame](https://github.com/limone-eth/are-we-frens-frame)
+- [Airstack NFT frame](https://github.com/limone-eth/airstack-frame)
+- [Simple Lemon frame](https://github.com/limone-eth/lemon-frame)
 
 ## Custom GPTs
 
@@ -55,6 +58,7 @@
 
 - [Neynar (Farcaster)](https://neynar.com/)
 - [Airstack (Farcaster, Lens, XMTP, ENS, ...)](https://explorer.airstack.xyz/)
+- [Web3 Bio](https://api.web3.bio/)
 - [Guide: Onchain Tx Confirmations using OnceUpon API](https://onceupon.notion.site/Public-How-to-use-tx-confirmations-in-your-Frame-w-Once-Upon-862883e5e15a49d5bc5005df69dc627f)
 
 ## Bounties & rewards for building Frames
