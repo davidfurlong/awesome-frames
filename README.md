@@ -9,6 +9,7 @@
 - [Node JS](https://github.com/nekofar/farcaster-frames-template)
 - [Syndicate Frame API, Make an NFT](https://github.com/WillPapper/syndicate-farcaster-frame-starter)
 - [Simplest Frame (no framework)](https://github.com/depatchedmode/simplest-frame)
+- [Privy Frame](https://github.com/privy-io/privy-frames-demo)
 
 ## Tools
 
