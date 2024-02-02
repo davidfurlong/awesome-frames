@@ -18,6 +18,7 @@
 - [Generate dynamic open graph images with Vercel](https://vercel.com/docs/functions/edge-functions/og-image-generation)
 - [Toolkit to build onchain with Base](https://github.com/coinbase/build-onchain-apps)
 - [OG image playground using Vercel's Satori](https://og-playground.vercel.app/)
+- [Oframl framework for building frames in OCaml](https://github.com/ncitron/oframl)
 
 ## Reference Frames code (Next.js)
 
