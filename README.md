@@ -22,6 +22,7 @@
 
 ## Reference Frames code (Next.js)
 
+- [Akinator Frame](https://github.com/therealharpaljadeja/akinator-farcaster-frame/tree/main) [Demo](https://warpcast.com/harpaljadeja/0xa4ff1e6b)
 - [Onframe Chess](https://github.com/fiveoutofnine/onframe-chess) [Demo](onframe-chess.vercel.app)
 - [Based adventure](https://github.com/seangeng/based-adventure)
 - [Snake game](https://github.com/Joetoledano/snakecaster)
