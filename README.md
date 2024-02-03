@@ -50,6 +50,8 @@
 - [Simple Lemon frame](https://github.com/limone-eth/lemon-frame)
 - [IPFS Gateway Timer frame (GitHub)](https://github.com/eucalyptus-viminalis/ipfs-timer)
   - [Live on Warpcast](https://warpcast.com/3070/0x07bf940d)
+- [Token gated frame using Unlock](https://github.com/unlock-protocol/token-gated-frame)
+  - [Demo](https://warpcast.com/julien51.eth/0xa5390f5a)
 
 ## Custom GPTs
 
@@ -97,6 +99,7 @@
 - [Create a quiz](https://frame-quiz.vercel.app/)
 - [Earncaster: Reward Farcaster users for learning about your products or ideas](https://earncaster.com/)
 - [Glass.cx](https://glass.cx/)
+- [Token gated frames](https://frames.token-gated.com/)
 
 ## Frame ideas
 
