@@ -23,6 +23,7 @@
 
 ## Reference Frames code (Next.js)
 
+- [Text Input example](https://github.com/horsefacts/echo-the-dolphin)
 - [Akinator Frame](https://github.com/therealharpaljadeja/akinator-farcaster-frame/tree/main) [Demo](https://warpcast.com/harpaljadeja/0xa4ff1e6b)
 - [Onframe Chess](https://github.com/fiveoutofnine/onframe-chess) [Demo](onframe-chess.vercel.app)
 - [Based adventure](https://github.com/seangeng/based-adventure)
@@ -52,6 +53,8 @@
   - [Live on Warpcast](https://warpcast.com/3070/0x07bf940d)
 - [Token gated frame using Unlock](https://github.com/unlock-protocol/token-gated-frame)
   - [Demo](https://warpcast.com/julien51.eth/0xa5390f5a)
+- [Degen Frame](https://github.com/KartikC/degen-frame/)
+  - [Demo](https://warpcast.com/sathaxe/0x5f6cdaed)
 
 ## Custom GPTs
 
