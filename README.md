@@ -48,6 +48,8 @@
 - [Are We Frens frame](https://github.com/limone-eth/are-we-frens-frame)
 - [Airstack NFT frame](https://github.com/limone-eth/airstack-frame)
 - [Simple Lemon frame](https://github.com/limone-eth/lemon-frame)
+- [IPFS Gateway Timer frame (GitHub)](https://github.com/eucalyptus-viminalis/ipfs-timer)
+  - [Live on Warpcast](https://warpcast.com/3070/0x07bf940d)
 
 ## Custom GPTs
 
