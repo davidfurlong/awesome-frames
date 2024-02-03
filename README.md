@@ -31,6 +31,7 @@
 - [Show a random CC0-lib image](https://github.com/cc0-lib/cc0-lib-frames)
 - [Small brain Frames](https://github.com/smallbraingames/small-brain-frame)
 - [Onchain cow clicker](https://github.com/WillPapper/On-Chain-Cow-Farcaster-Frame)
+- [LFG token frame](https://github.com/edendao/lfg)
 - [Zora Mint Frame](https://github.com/lottopgf/zora-mint-frame)
 - [Zora NFTs Carousel](https://github.com/jvaleskadevs/fc-frame-zora-nfts-carrousel)
 - [Find StarkNet Friends on Farcaster](https://github.com/keep-starknet-strange/starknet-warpcast/tree/main/frames/find-starknet-frens)
