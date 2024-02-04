@@ -1,27 +1,49 @@
 # Awesome Frames
 
-- [Farcaster Frames Docs](https://docs.farcaster.xyz/learn/what-is-farcaster/frames)
+A Frame lets you turn any website into an interactive Frame that other apps or websites can show to their users.
+It’s a standard for creating interactive and authenticated experiences - Create polls, live feeds, interactive galleries or anything else you can image.
 
-## Boilerplate "Make a Frame starter" repos
+![](https://docs.farcaster.xyz/assets/frame_og.fVqFIQuZ.png)
 
+[Farcaster Frames Docs](https://docs.farcaster.xyz/learn/what-is-farcaster/frames)
+
+## Quickstart to build frames
+
+- [frames.js](https://framesjs.org) is the fastest way to start building frames
+
+## Ask for help & meet other Frames buildes
+
+- [/frames-devs](https://warpcast.com/~/channel/frames-devs)
+
+## Useful Tools
+
+- [Reset your Frames metadata cache on Warpcast](https://warpcast.com/~/developers/embeds)
+- [Satori: Library to convert HTML to Images](https://github.com/vercel/satori)
+- [Validate your frame is working](https://warpcast.com/~/developers/frames)
+- [Onchainkit: Deploy onchain](https://github.com/coinbase/onchainkit)
+- [Generate dynamic open graph images with Vercel](https://vercel.com/docs/functions/edge-functions/og-image-generation)
+- [Toolkit to build onchain with Base](https://github.com/coinbase/build-onchain-apps)
+- [OG image playground using Vercel's Satori](https://og-playground.vercel.app/)
+
+### Data & API Providers
+
+- [Neynar (Farcaster)](https://neynar.com/)
+- [Airstack (Farcaster, Lens, XMTP, ENS, ...)](https://explorer.airstack.xyz/)
+- [Web3 Bio](https://api.web3.bio/)
+- [Guide: Onchain Tx Confirmations using OnceUpon API](https://onceupon.notion.site/Public-How-to-use-tx-confirmations-in-your-Frame-w-Once-Upon-862883e5e15a49d5bc5005df69dc627f)
+
+### Boilerplate repos
+
+- [Frames.js starter](https://github.com/framesjs/frames.js/tree/main/examples/framesjs-starter)
 - [Next JS](https://github.com/Zizzamia/a-frame-in-100-lines)
 - [Express JS](https://github.com/SamBroner/farcaster-frames-express-template)
 - [Node JS](https://github.com/nekofar/farcaster-frames-template)
 - [Syndicate Frame API, Make an NFT](https://github.com/WillPapper/syndicate-farcaster-frame-starter)
 - [Simplest Frame (no framework)](https://github.com/depatchedmode/simplest-frame)
 - [Privy Frame](https://github.com/privy-io/privy-frames-demo)
-
-## Tools
-
-- [OnchainKit & FrameKit](https://github.com/coinbase/onchainkit)
-- [Reset metadata cache for Warpcast](https://warpcast.com/~/developers/embeds)
-- [Validate your frame for Warpcast](https://warpcast.com/~/developers/frames)
-- [Generate dynamic open graph images with Vercel](https://vercel.com/docs/functions/edge-functions/og-image-generation)
-- [Toolkit to build onchain with Base](https://github.com/coinbase/build-onchain-apps)
-- [OG image playground using Vercel's Satori](https://og-playground.vercel.app/)
 - [Oframl framework for building frames in OCaml](https://github.com/ncitron/oframl)
 
-## Reference Frames code (Next.js)
+### Open source Frames
 
 - [Text Input example](https://github.com/horsefacts/echo-the-dolphin)
 - [Akinator Frame](https://github.com/therealharpaljadeja/akinator-farcaster-frame/tree/main) [Demo](https://warpcast.com/harpaljadeja/0xa4ff1e6b)
@@ -57,19 +79,12 @@
   - [Demo](https://warpcast.com/sathaxe/0x5f6cdaed)
 - [LFG token frame](https://github.com/edendao/lfg)
 
-## Custom GPTs
+### Custom GPTs
 
 - [Custom LLM Flask Frame](https://github.com/mr-spaghetti-code/flaskframe)
 - [ChatGPT custom GPT, How to build frames](https://chat.openai.com/g/g-wnoTA6Mhw-how-to-build-frames-for-warpcast)
 - [FramesGPT](https://chat.openai.com/g/g-vxALnvPFA-framesgpt)
 - [Farcaster Framer](https://chat.openai.com/g/g-rIhEYpfwV-farcaster-framer)
-
-## Data & API Providers
-
-- [Neynar (Farcaster)](https://neynar.com/)
-- [Airstack (Farcaster, Lens, XMTP, ENS, ...)](https://explorer.airstack.xyz/)
-- [Web3 Bio](https://api.web3.bio/)
-- [Guide: Onchain Tx Confirmations using OnceUpon API](https://onceupon.notion.site/Public-How-to-use-tx-confirmations-in-your-Frame-w-Once-Upon-862883e5e15a49d5bc5005df69dc627f)
 
 ## Bounties & rewards for building Frames
 
@@ -104,6 +119,7 @@
 - [Earncaster: Reward Farcaster users for learning about your products or ideas](https://earncaster.com/)
 - [Glass.cx](https://glass.cx/)
 - [Token gated frames](https://frames.token-gated.com/)
+- [Neynar no-code frames, must be logged in](https://dev.neynar.com/frames)
 
 ## Frame ideas
 
@@ -131,7 +147,3 @@
 
 - [XMTP](https://community.xmtp.org/t/supporting-frames-in-xmtp/535)
 - [Lens](https://reflect.site/g/yoginth/hey-portal-open-graph-spec/cd7225f128274da382f1f516e7e63f15)
-
-## Ask for help, questions or share dev resources
-
-- [/frames-devs](https://warpcast.com/~/channel/frames-devs)
