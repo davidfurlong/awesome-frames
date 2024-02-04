@@ -55,6 +55,7 @@
   - [Demo](https://warpcast.com/julien51.eth/0xa5390f5a)
 - [Degen Frame](https://github.com/KartikC/degen-frame/)
   - [Demo](https://warpcast.com/sathaxe/0x5f6cdaed)
+- [LFG token frame](https://github.com/edendao/lfg)
 
 ## Custom GPTs
 
