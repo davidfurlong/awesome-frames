@@ -18,6 +18,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 ## Useful Tools
 
 - [Reset your Frames metadata cache on Warpcast](https://warpcast.com/~/developers/embeds)
+- [Verify Frames actions onchain](https://warpcast.com/fastfourier.eth/0xcaaa0dc9)
 - [Satori: Library to convert HTML to Images](https://github.com/vercel/satori)
 - [Validate your frame is working](https://warpcast.com/~/developers/frames)
 - [Onchainkit: Deploy onchain](https://github.com/coinbase/onchainkit)
