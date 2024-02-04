@@ -1,6 +1,6 @@
 # Awesome Frames
 
-- [Farcaster Frames Docs](https://warpcast.notion.site/Farcaster-Frames-4bd47fe97dc74a42a48d3a234636d8c5)
+- [Farcaster Frames Docs](https://docs.farcaster.xyz/learn/what-is-farcaster/frames)
 
 ## Boilerplate "Make a Frame starter" repos
 
