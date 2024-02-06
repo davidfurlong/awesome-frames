@@ -102,6 +102,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Bengaluru, 3rd of February](https://lu.ma/5nhqyowv)
 - [London, 4th February](https://warpcast.com/oxb/0x4351707a)
 - [Tel Aviv, 4th February](https://airtable.com/appxPSwSOcnhRjN9l/pagGzXxL2atfCNnJh/form)
+- [Buenos Aires, 8th February](https://lu.ma/xl67p196)
 
 ## Embedding Frames in your own app
 
