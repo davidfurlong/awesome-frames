@@ -82,6 +82,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Airstack NFT frame](https://github.com/limone-eth/airstack-frame)
 - [Simple Lemon frame](https://github.com/limone-eth/lemon-frame)
 - [LFG token frame](https://github.com/edendao/lfg)
+- [Lu.ma Event Redirect Frame](https://github.com/thomas779/hackasado-frame)
 
 ### Custom GPTs
 
