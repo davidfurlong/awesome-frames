@@ -146,10 +146,12 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 
 ## Projects that integrated Frames
 
+- [Gallery, mint to connected wallet](https://gallery.so/)
+- [Manifold, mint to connected wallet](https://manifold.xyz/)
 - [Paragraph, Subscribe to newsletter](https://paragraph.xyz/)
   - [read a post inline](https://warpcast.com/colin/0x88627734)
-- [Manifold, mint to connected wallet](https://manifold.xyz/)
-- [Gallery, mint to connected wallet](https://gallery.so/)
+- [Serotonin, Show you're attending an event](platform.serotonin.co/events)
+  - [Show you're attending ETH Denver](https://warpcast.com/michael/0xb11100d8)
 
 ## Other Frames implementations
 
