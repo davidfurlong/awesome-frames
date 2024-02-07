@@ -142,6 +142,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 
 - [/frames](https://warpcast.com/~/channel/frames)
 - [Launchcaster](https://www.launchcaster.xyz/?text=frame)
+- [TopFrames.xyz - Curated directory of novel Frames](https://topframes.xyz/)
 
 ## Projects that integrated Frames
 
