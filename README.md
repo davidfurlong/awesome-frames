@@ -11,7 +11,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 
 - [frames.js](https://framesjs.org) is the fastest way to start building frames
 
-## Ask for help & meet other Frames buildes
+## Ask for help & meet other Frames builders
 
 - [/frames-devs](https://warpcast.com/~/channel/frames-devs)
 
