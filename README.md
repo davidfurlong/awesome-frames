@@ -156,6 +156,12 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Serotonin, Show you're attending an event](platform.serotonin.co/events)
   - [Show you're attending ETH Denver](https://warpcast.com/michael/0xb11100d8)
 
+## Apps that support Frames
+
+- [Warpcast](https://warpcast.com)
+- [Supercast](https://www.supercast.xyz)
+- [Charmverse](https://warpcast.com/ccarella.eth/0xde011da7)
+
 ## Other Frames implementations
 
 - [XMTP](https://community.xmtp.org/t/supporting-frames-in-xmtp/535)
