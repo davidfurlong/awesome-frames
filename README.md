@@ -43,8 +43,10 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Simplest Frame (no framework)](https://github.com/depatchedmode/simplest-frame)
 - [Privy Frame](https://github.com/privy-io/privy-frames-demo)
 - [Oframl framework for building frames in OCaml](https://github.com/ncitron/oframl)
-- [Smart account frame template](https://github.com/pimlicolabs/smart-account-frame-template)
+- [Smart account frame Template](https://github.com/pimlicolabs/smart-account-frame-template)
 - [Rust Farcaster Frames Template](https://github.com/jpgonzalezra/farcaster-frames-template)
+- [Remix Farcaster Frame Template](https://github.com/jfstn/remix-frames)
+
 
 ### Open source Frames
 
