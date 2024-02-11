@@ -25,6 +25,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Generate dynamic open graph images with Vercel](https://vercel.com/docs/functions/edge-functions/og-image-generation)
 - [Toolkit to build onchain with Base](https://github.com/coinbase/build-onchain-apps)
 - [OG image playground using Vercel's Satori](https://og-playground.vercel.app/)
+- [Deploy your frame on-chain using the Internet Computer (ICP](https://medium.com/dfinity/how-to-create-an-on-chain-farcaster-frame-ee232e807219)
 
 ### Data & API Providers
 
@@ -45,6 +46,8 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Oframl framework for building frames in OCaml](https://github.com/ncitron/oframl)
 - [Smart account frame template](https://github.com/pimlicolabs/smart-account-frame-template)
 - [Rust Farcaster Frames Template](https://github.com/jpgonzalezra/farcaster-frames-template)
+- [Typescript Farcaster Frames](https://github.com/Gekctek/farcaster-frame-azle)
+- [Motoko Farcaster Frames](https://github.com/Gekctek/farcaster-frame)
 
 ### Open source Frames
 
@@ -109,6 +112,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Tel Aviv, 4th February](https://airtable.com/appxPSwSOcnhRjN9l/pagGzXxL2atfCNnJh/form)
 - [Buenos Aires, 8th February](https://lu.ma/xl67p196)
 - [Chennai, 10th February](https://lu.ma/hack-frames-chennai)
+- [Lisbon, 11th February](https://lu.ma/rjzvfie1)
 
 ## Embedding Frames in your own app
 
