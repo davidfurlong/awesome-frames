@@ -91,6 +91,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Seedbucks, Mint ERC20](https://github.com/worm-emoji/seedbucks)
 - [Mint GPT](https://github.com/instanetk/mintgpt/blob/629e94a47ac51f1110fa5914bd11c12e6bf1f699/src/pageComponents/mint/ContractDemo.tsx#L4)
 - [Bag app](https://github.com/Destiner/bag-app)
+- [in-frame captcha](https://github.com/limone-eth/farcaster-horizon-airstack/tree/main/app/api/captcha)
 
 ### Custom GPTs
 
