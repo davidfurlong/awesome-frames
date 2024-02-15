@@ -100,6 +100,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Bag app](https://github.com/Destiner/bag-app)
 - [in-frame captcha](https://github.com/limone-eth/farcaster-horizon-airstack/tree/main/app/api/captcha)
 - [Assorted frames by Pinata](https://github.com/PinataCloud/pinataframes)
+- [Lil Nouns Frames](https://github.com/lilnouns/lilnouns-frames)
 
 ### Custom GPTs
 
