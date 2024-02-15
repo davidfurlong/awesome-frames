@@ -10,6 +10,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 ## Quickstart to build frames
 
 - [frames.js](https://framesjs.org) is the fastest way to start building frames
+- [Pinata Node.js Frame Development Kit](https://github.com/PinataCloud/pinata-fdk)
 
 ## Ask for help & meet other Frames builders
 
@@ -33,6 +34,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Airstack (Farcaster, Lens, XMTP, ENS, ...)](https://explorer.airstack.xyz/)
 - [Web3 Bio](https://api.web3.bio/)
 - [Guide: Onchain Tx Confirmations using OnceUpon API](https://onceupon.notion.site/Public-How-to-use-tx-confirmations-in-your-Frame-w-Once-Upon-862883e5e15a49d5bc5005df69dc627f)
+- [Pinata - Hub, APIs](https://pinata.cloud/farcaster)
 
 ### Serverless Computing Providers
 - [Phala Network](https://phala.network)
@@ -97,6 +99,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Mint GPT](https://github.com/instanetk/mintgpt/blob/629e94a47ac51f1110fa5914bd11c12e6bf1f699/src/pageComponents/mint/ContractDemo.tsx#L4)
 - [Bag app](https://github.com/Destiner/bag-app)
 - [in-frame captcha](https://github.com/limone-eth/farcaster-horizon-airstack/tree/main/app/api/captcha)
+- [Assorted frames by Pinata](https://github.com/PinataCloud/pinataframes)
 
 ### Custom GPTs
 
@@ -126,6 +129,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Client side SDK to render frames](https://docs.modprotocol.org/farcaster-frames)
 - [Post a frame action using Neynar's Farcaster signers API](https://docs.neynar.com/reference/post-frame-action)
 - [Validate a frame action using Neynar](https://docs.neynar.com/reference/validate-frame)
+- [Validate a frame action using Pinata](https://github.com/PinataCloud/pinata-fdk?tab=readme-ov-file#validateframemessage)
 
 ## What's coming next in Frames
 
