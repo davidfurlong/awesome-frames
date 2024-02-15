@@ -10,7 +10,6 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 ## Quickstart to build frames
 
 - [frames.js](https://framesjs.org) is the fastest way to start building frames
-- [Pinata Node.js Frame Development Kit](https://github.com/PinataCloud/pinata-fdk)
 
 ## Ask for help & meet other Frames builders
 
@@ -19,14 +18,15 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 ## Useful Tools
 
 - [Reset your Frames metadata cache on Warpcast](https://warpcast.com/~/developers/embeds)
+- [Validate your frame is working](https://warpcast.com/~/developers/frames)
 - [Verify Frames actions onchain](https://warpcast.com/fastfourier.eth/0xcaaa0dc9)
 - [Satori: Library to convert HTML to Images](https://github.com/vercel/satori)
-- [Validate your frame is working](https://warpcast.com/~/developers/frames)
 - [Onchainkit: Deploy onchain](https://github.com/coinbase/onchainkit)
 - [Generate dynamic open graph images with Vercel](https://vercel.com/docs/functions/edge-functions/og-image-generation)
 - [Toolkit to build onchain with Base](https://github.com/coinbase/build-onchain-apps)
 - [OG image playground using Vercel's Satori](https://og-playground.vercel.app/)
 - [Deploy your frame on-chain using the Internet Computer (ICP](https://medium.com/dfinity/how-to-create-an-on-chain-farcaster-frame-ee232e807219)
+- [Pinata Node.js Frame Development Kit](https://github.com/PinataCloud/pinata-fdk)
 
 ### Data & API Providers
 
