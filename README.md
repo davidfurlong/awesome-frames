@@ -174,6 +174,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Supercast](https://www.supercast.xyz)
 - [Yup](https://app.yup.io/login?callbackUrl=%2F)
 - [Charmverse](https://warpcast.com/ccarella.eth/0xde011da7)
+- [Launchcaster](https://launchcaster.xyz)
 
 ## Other Frames implementations
 
