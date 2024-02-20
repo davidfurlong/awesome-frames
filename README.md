@@ -101,6 +101,8 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [in-frame captcha](https://github.com/limone-eth/farcaster-horizon-airstack/tree/main/app/api/captcha)
 - [Assorted frames by Pinata](https://github.com/PinataCloud/pinataframes)
 - [Lil Nouns Frames](https://github.com/lilnouns/lilnouns-frames)
+- [Whitelist checker](https://github.com/99darwin/milo-whitelist-checker)
+- [Choose your own adventure](https://github.com/99darwin/cyo-adventure)
 
 ### Custom GPTs
 
