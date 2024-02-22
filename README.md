@@ -35,6 +35,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Web3 Bio](https://api.web3.bio/)
 - [Guide: Onchain Tx Confirmations using OnceUpon API](https://onceupon.notion.site/Public-How-to-use-tx-confirmations-in-your-Frame-w-Once-Upon-862883e5e15a49d5bc5005df69dc627f)
 - [Pinata - Hub, APIs](https://pinata.cloud/farcaster)
+- [The Graph (onchain data)](https://thegraph.com/blog/build-with-farcaster-frames-the-graph/)
 
 ### Serverless Computing Providers
 - [Phala Network](https://phala.network)
@@ -56,6 +57,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Typescript Farcaster Frames](https://github.com/Gekctek/farcaster-frame-azle)
 - [Motoko Farcaster Frames](https://github.com/Gekctek/farcaster-frame)
 - [Account Abstraction + Meta-transactions Frame](https://github.com/openfort-xyz/openfort-fc-frames-demo)
+- [Using The Graph](https://github.com/schmidsi/cryptopunks-frames)
 
 ### Open source Frames
 
@@ -103,6 +105,10 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Lil Nouns Frames](https://github.com/lilnouns/lilnouns-frames)
 - [Whitelist checker](https://github.com/99darwin/milo-whitelist-checker)
 - [Choose your own adventure](https://github.com/99darwin/cyo-adventure)
+- [Frames64](https://github.com/Dhruv-2003/Frame-base64)
+- [ETH Wrapped](https://github.com/shiyasmohd/ethwrapped-frames)
+- [Interframe](https://github.com/eucalyptus-viminalis/interframe)
+- [Safe Proposal Frame](https://github.com/builders-garden/safe-proposal-frame)
 
 ### Custom GPTs
 
