@@ -115,18 +115,6 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 
 - [Bountycaster](https://www.bountycaster.xyz/?tag=tag-frames)
 
-## Hackathons
-
-- [NYC, 28th Feb -](https://lu.ma/tyu0ypth)
-- [Austin, 1st Feb](https://blocklive.io/event/atx-frames-hackathon)
-- [Virtual deadline, 2nd Feb](https://warpcast.com/betashop.eth/0xf02fb1ad)
-- [Bengaluru, 3rd of February](https://lu.ma/5nhqyowv)
-- [London, 4th February](https://warpcast.com/oxb/0x4351707a)
-- [Tel Aviv, 4th February](https://airtable.com/appxPSwSOcnhRjN9l/pagGzXxL2atfCNnJh/form)
-- [Buenos Aires, 8th February](https://lu.ma/xl67p196)
-- [Chennai, 10th February](https://lu.ma/hack-frames-chennai)
-- [Lisbon, 11th February](https://lu.ma/rjzvfie1)
-
 ## Embedding Frames in your own app
 
 - [Client side SDK to render frames](https://docs.modprotocol.org/farcaster-frames)
