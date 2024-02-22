@@ -112,7 +112,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 
 ### Custom GPTs
 
-- [Custom LLM Flask Frame](https://)github.com/mr-spaghetti-code/flaskframe)
+- [Custom LLM Flask Frame](https://github.com/mr-spaghetti-code/flaskframe)
 - [ChatGPT custom GPT, How to build frames](https://chat.openai.com/g/g-wnoTA6Mhw-how-to-build-frames-for-warpcast)
 - [FramesGPT](https://chat.openai.com/g/g-vxALnvPFA-framesgpt)
 - [Farcaster Framer](https://chat.openai.com/g/g-rIhEYpfwV-farcaster-framer)
