@@ -1,7 +1,7 @@
 # Awesome Frames
 
 A Frame lets you turn any website into an interactive Frame that other apps or websites can show to their users.
-It’s a standard for creating interactive and authenticated experiences - Create polls, live feeds, interactive galleries or anything else you can image.
+It’s a standard for creating interactive and authenticated experiences - Create polls, live feeds, interactive galleries or anything else you can imagine.
 
 ![](https://docs.farcaster.xyz/assets/frame_og.fVqFIQuZ.png)
 
