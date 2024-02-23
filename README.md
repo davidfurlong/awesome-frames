@@ -31,7 +31,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 ### Data & API Providers
 
 - [Neynar (Farcaster)](https://neynar.com/)
-- [Airstack (Farcaster, Lens, XMTP, ENS, ...)](https://explorer.airstack.xyz/)
+- [Airstack Onchain Kit: APIs & SDK](https://link.airstack.xyz/frames)
 - [Web3 Bio](https://api.web3.bio/)
 - [Guide: Onchain Tx Confirmations using OnceUpon API](https://onceupon.notion.site/Public-How-to-use-tx-confirmations-in-your-Frame-w-Once-Upon-862883e5e15a49d5bc5005df69dc627f)
 - [Pinata - Hub, APIs](https://pinata.cloud/farcaster)
