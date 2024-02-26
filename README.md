@@ -10,6 +10,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 ## Quickstart to build frames
 
 - [frames.js](https://framesjs.org) is the fastest way to start building frames
+- [framelib](https://github.com/devinaconley/python-frames) is lightweight library for building frames with python and flask
 
 ## Ask for help & meet other Frames builders
 
@@ -58,6 +59,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Motoko Farcaster Frames](https://github.com/Gekctek/farcaster-frame)
 - [Account Abstraction + Meta-transactions Frame](https://github.com/openfort-xyz/openfort-fc-frames-demo)
 - [Using The Graph](https://github.com/schmidsi/cryptopunks-frames)
+- [Python frame](https://github.com/devinaconley/python-frames/tree/main/examples/simple)
 
 ### Open source Frames
 
@@ -109,6 +111,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [ETH Wrapped](https://github.com/shiyasmohd/ethwrapped-frames)
 - [Interframe](https://github.com/eucalyptus-viminalis/interframe)
 - [Safe Proposal Frame](https://github.com/builders-garden/safe-proposal-frame)
+- [Rock, Paper, Scissors](https://github.com/devinaconley/rock-paper-scissors)
 
 ### Custom GPTs
 
