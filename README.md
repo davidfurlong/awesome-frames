@@ -10,13 +10,12 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 ## Quickstart to build frames
 
 - [frames.js](https://framesjs.org) is the fastest way to start building frames
-- [framelib](https://github.com/devinaconley/python-frames) is lightweight library for building frames with python and flask
 
 ## Ask for help & meet other Frames builders
 
 - [/frames-devs](https://warpcast.com/~/channel/frames-devs)
 
-## Useful Tools
+## Useful Tools & Libraries
 
 - [Reset your Frames metadata cache on Warpcast](https://warpcast.com/~/developers/embeds)
 - [Validate your frame is working](https://warpcast.com/~/developers/frames)
@@ -28,6 +27,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [OG image playground using Vercel's Satori](https://og-playground.vercel.app/)
 - [Deploy your frame on-chain using the Internet Computer (ICP](https://medium.com/dfinity/how-to-create-an-on-chain-farcaster-frame-ee232e807219)
 - [Pinata Node.js Frame Development Kit](https://github.com/PinataCloud/pinata-fdk)
+- [framelib](https://github.com/devinaconley/python-frames) is lightweight library for building frames with python and flask
 
 ### Data & API Providers
 
