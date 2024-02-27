@@ -27,7 +27,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [OG image playground using Vercel's Satori](https://og-playground.vercel.app/)
 - [Deploy your frame on-chain using the Internet Computer (ICP](https://medium.com/dfinity/how-to-create-an-on-chain-farcaster-frame-ee232e807219)
 - [Pinata Node.js Frame Development Kit](https://github.com/PinataCloud/pinata-fdk)
-- [framelib](https://github.com/devinaconley/python-frames) is lightweight library for building frames with python and flask
+- [framelib, build frames with python and flask](https://github.com/devinaconley/python-frames)
 
 ### Data & API Providers
 
