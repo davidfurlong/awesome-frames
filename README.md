@@ -15,7 +15,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 
 - [/frames-devs](https://warpcast.com/~/channel/frames-devs)
 
-## Useful Tools
+## Useful Tools & Libraries
 
 - [Reset your Frames metadata cache on Warpcast](https://warpcast.com/~/developers/embeds)
 - [Validate your frame is working](https://warpcast.com/~/developers/frames)
@@ -27,6 +27,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [OG image playground using Vercel's Satori](https://og-playground.vercel.app/)
 - [Deploy your frame on-chain using the Internet Computer (ICP](https://medium.com/dfinity/how-to-create-an-on-chain-farcaster-frame-ee232e807219)
 - [Pinata Node.js Frame Development Kit](https://github.com/PinataCloud/pinata-fdk)
+- [framelib, build frames with python and flask](https://github.com/devinaconley/python-frames)
 
 ### Data & API Providers
 
@@ -58,6 +59,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Motoko Farcaster Frames](https://github.com/Gekctek/farcaster-frame)
 - [Account Abstraction + Meta-transactions Frame](https://github.com/openfort-xyz/openfort-fc-frames-demo)
 - [Using The Graph](https://github.com/schmidsi/cryptopunks-frames)
+- [Python frame](https://github.com/devinaconley/python-frames/tree/main/examples/simple)
 
 ### Open source Frames
 
@@ -109,6 +111,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [ETH Wrapped](https://github.com/shiyasmohd/ethwrapped-frames)
 - [Interframe](https://github.com/eucalyptus-viminalis/interframe)
 - [Safe Proposal Frame](https://github.com/builders-garden/safe-proposal-frame)
+- [Rock, Paper, Scissors](https://github.com/devinaconley/rock-paper-scissors)
 
 ### Custom GPTs
 
