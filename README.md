@@ -140,6 +140,7 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 - [Create threads](https://github.com/Sneh1999/fc-threads)
 - [Create fc-polls](https://fc-polls.vercel.app/)
 - [Create polls](https://polls.dep.dev/)
+- [Create pinterest-like frameboards](https://www.frameboard.com/)
 - [Quizframe.xyz](https://quizframe.xyz/), [Source Code](https://github.com/w1nt3r-eth/quizframe.xyz)
 - [Create a quiz](https://frame-quiz.vercel.app/)
 - [Earncaster: Reward Farcaster users for learning about your products or ideas](https://earncaster.com/)
@@ -165,6 +166,8 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 
 ## Projects that integrated Frames
 
+- [Frameboard, follow board with wallet](https://www.frameboard.com/)
+  - [view board posts inframe](https://warpcast.com/jayme/0xb8415290)
 - [Gallery, mint to connected wallet](https://gallery.so/)
 - [Manifold, mint to connected wallet](https://manifold.xyz/)
 - [Paragraph, Subscribe to newsletter](https://paragraph.xyz/)
