@@ -15,6 +15,10 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 
 - [/frames-devs](https://warpcast.com/~/channel/frames-devs)
 
+## Open Frames
+
+- [Open Frames is a standard for Frames that work across ecosystems](https://github.com/open-frames/standard)
+
 ## Useful Tools & Libraries
 
 - [Reset your Frames metadata cache on Warpcast](https://warpcast.com/~/developers/embeds)
