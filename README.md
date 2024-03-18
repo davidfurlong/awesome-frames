@@ -17,7 +17,10 @@ It’s a standard for creating interactive and authenticated experiences - Creat
 
 ## Open Frames
 
-- [Open Frames is a standard for Frames that work across ecosystems](https://github.com/open-frames/standard)
+Open Frames is a standard for Frames that work across ecosystems
+
+- [Open Frames](https://github.com/open-frames/standard)
+- [Awesome Open Frames](https://github.com/open-frames/awesome-open-frames)
 
 ## Useful Tools & Libraries
 
