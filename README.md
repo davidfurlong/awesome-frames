@@ -137,6 +137,7 @@ Open Frames is a standard for Frames that work across ecosystems
 - [Post a frame action using Neynar's Farcaster signers API](https://docs.neynar.com/reference/post-frame-action)
 - [Validate a frame action using Neynar](https://docs.neynar.com/reference/validate-frame)
 - [Validate a frame action using Pinata](https://github.com/PinataCloud/pinata-fdk?tab=readme-ov-file#validateframemessage)
+- [Validate a frame action using Airstack](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/frames-validator)
 
 ## What's coming next in Frames
 
