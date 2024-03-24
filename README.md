@@ -119,6 +119,7 @@ Open Frames is a standard for Frames that work across ecosystems
 - [Interframe](https://github.com/eucalyptus-viminalis/interframe)
 - [Safe Proposal Frame](https://github.com/builders-garden/safe-proposal-frame)
 - [Rock, Paper, Scissors](https://github.com/devinaconley/rock-paper-scissors)
+- [Dark Forest Frames](https://github.com/thetechnocrat-dev/darkforestframe/tree/main)
 
 ### Custom GPTs
 
