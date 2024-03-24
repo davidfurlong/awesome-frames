@@ -165,7 +165,7 @@ Open Frames is a standard for Frames that work across ecosystems
 ## Frame Analytics
 
 - [Spindl](https://frames.spindl.xyz/)
-- [ClickCaster, traffic exchange between Frames with analytics](https://frames.spindl.xyz/)
+- [ClickCaster, traffic exchange between Frames with analytics](https://clickcaster.xyz/)
 
 ## Frame launches
 
