@@ -155,6 +155,7 @@ Open Frames is a standard for Frames that work across ecosystems
 - [Glass.cx](https://glass.cx/)
 - [Token gated frames](https://frames.token-gated.com/)
 - [Neynar no-code frames, must be logged in](https://dev.neynar.com/frames)
+- [Create quiz frames, free, no login required](https://quizzup.vercel.app/)
 
 ## Frame ideas
 
