@@ -35,6 +35,7 @@ Open Frames is a standard for Frames that work across ecosystems
 - [Deploy your frame on-chain using the Internet Computer (ICP](https://medium.com/dfinity/how-to-create-an-on-chain-farcaster-frame-ee232e807219)
 - [Pinata Node.js Frame Development Kit](https://github.com/PinataCloud/pinata-fdk)
 - [framelib, build frames with python and flask](https://github.com/devinaconley/python-frames)
+- [ComposeCastxyz: privacy preserving cast composing gateway](https://github.com/0xSemicolon/composecastxyz)
 
 ### Data & API Providers
 
