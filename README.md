@@ -35,6 +35,7 @@ Open Frames is a standard for Frames that work across ecosystems
 - [Deploy your frame on-chain using the Internet Computer (ICP](https://medium.com/dfinity/how-to-create-an-on-chain-farcaster-frame-ee232e807219)
 - [Pinata Node.js Frame Development Kit](https://github.com/PinataCloud/pinata-fdk)
 - [framelib, build frames with python and flask](https://github.com/devinaconley/python-frames)
+- [ComposeCastxyz: privacy preserving cast composing gateway](https://github.com/0xSemicolon/composecastxyz)
 
 ### Data & API Providers
 
@@ -120,6 +121,7 @@ Open Frames is a standard for Frames that work across ecosystems
 - [Safe Proposal Frame](https://github.com/builders-garden/safe-proposal-frame)
 - [Rock, Paper, Scissors](https://github.com/devinaconley/rock-paper-scissors)
 - [Dark Forest Frames](https://github.com/thetechnocrat-dev/darkforestframe/tree/main)
+- [Nouns playground frame](https://github.com/stephancill/nouns-playground-frame)
 
 ### Custom GPTs
 
@@ -156,6 +158,7 @@ Open Frames is a standard for Frames that work across ecosystems
 - [Glass.cx](https://glass.cx/)
 - [Token gated frames](https://frames.token-gated.com/)
 - [Neynar no-code frames, must be logged in](https://dev.neynar.com/frames)
+- [Create quiz frames, free, no login required](https://quizzup.vercel.app/)
 
 ## Frame ideas
 
@@ -166,6 +169,7 @@ Open Frames is a standard for Frames that work across ecosystems
 ## Frame Analytics
 
 - [Spindl](https://frames.spindl.xyz/)
+- [ClickCaster, traffic exchange between Frames with analytics](https://clickcaster.xyz/)
 
 ## Frame launches
 
@@ -191,6 +195,9 @@ Open Frames is a standard for Frames that work across ecosystems
 - [Yup](https://app.yup.io/login?callbackUrl=%2F)
 - [Charmverse](https://warpcast.com/ccarella.eth/0xde011da7)
 - [Launchcaster](https://launchcaster.xyz)
+
+## Frame Games
+- [HyperLoot: Dungeon War Season 1](https://warpcast.com/tandavas/0xa86ead6d)
 
 ## Other Frames implementations
 
