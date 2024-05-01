@@ -36,6 +36,7 @@ Open Frames is a standard for Frames that work across ecosystems
 - [Pinata Node.js Frame Development Kit](https://github.com/PinataCloud/pinata-fdk)
 - [framelib, build frames with python and flask](https://github.com/devinaconley/python-frames)
 - [ComposeCastxyz: privacy preserving cast composing gateway](https://github.com/0xSemicolon/composecastxyz)
+- [Glide: Let users pay with any token on any chain for in-frame transactions](https://docs.paywithglide.xyz/guides/farcaster-frames)
 
 ### Data & API Providers
 
