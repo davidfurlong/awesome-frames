@@ -45,6 +45,7 @@ Open Frames is a standard for Frames that work across ecosystems
 - [Guide: Onchain Tx Confirmations using OnceUpon API](https://onceupon.notion.site/Public-How-to-use-tx-confirmations-in-your-Frame-w-Once-Upon-862883e5e15a49d5bc5005df69dc627f)
 - [Pinata - Hub, APIs](https://pinata.cloud/farcaster)
 - [The Graph (onchain data)](https://thegraph.com/blog/build-with-farcaster-frames-the-graph/)
+- [far.quest Free & Open-Source Farcaster APIs](https://docs.far.quest)
 
 ### Serverless Computing Providers
 - [Phala Network](https://phala.network)
