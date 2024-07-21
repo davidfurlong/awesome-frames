@@ -198,6 +198,8 @@ Open Frames is a standard for Frames that work across ecosystems
 - [Yup](https://app.yup.io/login?callbackUrl=%2F)
 - [Charmverse](https://warpcast.com/ccarella.eth/0xde011da7)
 - [Launchcaster](https://launchcaster.xyz)
+- [Buttrfly](https://buttrfly.app/)
+- [Hey](https://hey.xyz/)
 
 ## Frame Games
 - [HyperLoot: Dungeon War Season 1](https://warpcast.com/tandavas/0xa86ead6d)
