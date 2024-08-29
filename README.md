@@ -55,6 +55,7 @@ Open Frames is a standard for Frames that work across ecosystems (XMTP, Lens, ..
 - [Create fc-polls](https://fc-polls.vercel.app/)
 - [Create polls](https://polls.dep.dev/)
 - [Quizframe.xyz](https://quizframe.xyz/), [Source Code](https://github.com/w1nt3r-eth/quizframe.xyz)
+- [Create a frame from a readable link](https://fc-reader.vercel.app/), [Source Code](https://github.com/anastasiarods/fc-reader)
 
 ## Useful Tools & Libraries
 
