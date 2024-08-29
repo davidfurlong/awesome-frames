@@ -217,6 +217,7 @@ and many more
 - [Launchcaster](https://launchcaster.xyz)
 - [Buttrfly](https://buttrfly.app/)
 - [Hey](https://hey.xyz/)
+- [nounspace, customizable client where you can embed frames](https://nounspace.com)
 
 ## Frame Games
 - [HyperLoot: Dungeon War Season 1](https://warpcast.com/tandavas/0xa86ead6d)
