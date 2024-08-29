@@ -70,6 +70,7 @@ Open Frames is a standard for Frames that work across ecosystems (XMTP, Lens, ..
 - [framelib, build frames with python and flask](https://github.com/devinaconley/python-frames)
 - [ComposeCastxyz: privacy preserving cast composing gateway](https://github.com/0xSemicolon/composecastxyz)
 - [Glide: Let users pay with any token on any chain for in-frame transactions](https://docs.paywithglide.xyz/guides/farcaster-frames)
+- [Quickstart Farcaster Frames 101](https://dtech.vision/farcaster/frames/quickstart-farcasterframes/)
 
 ### Data & API Providers
 
@@ -220,3 +221,7 @@ and many more
 
 ## Frame Games
 - [HyperLoot: Dungeon War Season 1](https://warpcast.com/tandavas/0xa86ead6d)
+
+## Video Explanation 
+- [Quickstart Farcaster Frames 101](https://youtu.be/LwA5vAtBMnc?si=kHWvzcQeNKuOHO24)
+- [How to Create a Farcaster Frame](https://youtu.be/6OFgBzx4aSM?si=3NswMlh1e54ehVcb)
