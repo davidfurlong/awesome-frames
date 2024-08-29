@@ -80,6 +80,10 @@ Open Frames is a standard for Frames that work across ecosystems (XMTP, Lens, ..
 - [Pinata - Hub, APIs](https://pinata.cloud/farcaster)
 - [The Graph (onchain data)](https://thegraph.com/blog/build-with-farcaster-frames-the-graph/)
 - [far.quest Free & Open-Source Farcaster APIs](https://docs.far.quest)
+- [Post a frame action using Neynar's Farcaster signers API](https://docs.neynar.com/reference/post-frame-action)
+- [Validate a frame action using Neynar](https://docs.neynar.com/reference/validate-frame)
+- [Validate a frame action using Pinata](https://github.com/PinataCloud/pinata-fdk?tab=readme-ov-file#validateframemessage)
+- [Validate a frame action using Airstack](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/frames-validator)
 
 ### Serverless Computing Providers
 
@@ -173,26 +177,19 @@ Open Frames is a standard for Frames that work across ecosystems (XMTP, Lens, ..
 
 - [Bountycaster](https://www.bountycaster.xyz/?tag=tag-frames)
 
-## Embedding Frames in your own app
+## Displaying Frames in your app
 
-- [Client side SDK to render frames](https://docs.modprotocol.org/farcaster-frames)
-- [Post a frame action using Neynar's Farcaster signers API](https://docs.neynar.com/reference/post-frame-action)
-- [Validate a frame action using Neynar](https://docs.neynar.com/reference/validate-frame)
-- [Validate a frame action using Pinata](https://github.com/PinataCloud/pinata-fdk?tab=readme-ov-file#validateframemessage)
-- [Validate a frame action using Airstack](https://docs.airstack.xyz/airstack-docs-and-faqs/guides/farcaster/frames-validator)
-
-## Frame ideas
-
-- [Warpcast search](https://warpcast.com/~/search/casts?q=Frame+idea)
-- [@les](https://warpcast.com/les/0xe58eb035)
-- [@df](https://warpcast.com/df/0xfdd6e7b7)
+- [React SDK](https://framesjs.org/guides/apps/display-frames)
+- [React Native SDK](https://framesjs.org/guides/apps/display-frames-in-react-native)
+- [Embed an iframe](https://i.frames.fun/)
 
 ## Frame Analytics
 
 - [Spindl](https://frames.spindl.xyz/)
 - [ClickCaster, traffic exchange between Frames with analytics](https://clickcaster.xyz/)
+- [No-code Frame analytics](https://framly.pages.dev/)
 
-## Frame launches
+## Discover new frames
 
 - [/frames](https://warpcast.com/~/channel/frames)
 - [Launchcaster](https://www.launchcaster.xyz/?text=frame)
