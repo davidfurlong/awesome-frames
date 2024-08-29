@@ -165,6 +165,7 @@ Open Frames is a standard for Frames that work across ecosystems (XMTP, Lens, ..
 - [Dark Forest Frames](https://github.com/thetechnocrat-dev/darkforestframe/tree/main)
 - [Nouns playground frame](https://github.com/stephancill/nouns-playground-frame)
 - [Coinframes.xyz Price Snapshot Frame](https://github.com/carlaiau/coinframes)
+- [Ok Banger]()https://github.com/iammatthias/okbanger
 
 ### Custom GPTs
 
