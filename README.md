@@ -33,6 +33,7 @@ Open Frames is a standard for Frames that work across ecosystems (XMTP, Lens, ..
 - [Warpcast Tools](https://warpcast.tools) - Dead Simple Frame Creator
 - [Percs](https://percs.app) - Frames for growth and ecommerce
 - [Framebuilder](https://framebuilder.xyz) - No-code tool
+- [Framer](https://www.framer.com/) - A versatile tool that allows you to design, prototype, and create interactive frames from scratch. It provides an intuitive drag-and-drop interface and integrates well with various design systems.
 
 ## No-code frame making tools (specialized to particular types of frames)
 - [Frameboard](https://www.frameboard.com/) - Create pinterest-like frameboards
@@ -70,6 +71,8 @@ Open Frames is a standard for Frames that work across ecosystems (XMTP, Lens, ..
 - [framelib, build frames with python and flask](https://github.com/devinaconley/python-frames)
 - [ComposeCastxyz: privacy preserving cast composing gateway](https://github.com/0xSemicolon/composecastxyz)
 - [Glide: Let users pay with any token on any chain for in-frame transactions](https://docs.paywithglide.xyz/guides/farcaster-frames)
+- [ Puppeteer: A Node.js library that provides a high-level API to control Chrome or Chromium over the DevTools Protocol. It is excellent for automating tasks such as generating screenshots and PDFs of frames, which can be useful for testing and creating visual assets][def](https://github.com/puppeteer/puppeteer)
+
 
 ### Data & API Providers
 
