@@ -107,7 +107,8 @@ Open Frames is a standard for Frames that work across ecosystems (XMTP, Lens, ..
 
 ### Open source Frames
 
-- [Github repos tagged with farcaster-frames](https://github.com/topics/farcaster-frames)
+[63 Github repos tagged with farcaster-frames](https://github.com/topics/farcaster-frames)
+
 - [Frames.js launch frame (pages then link)](https://github.com/framesjs/homeframe/blob/main/app/page.tsx)
   - [Demo](https://warpcast.com/df/0xd925a844)
 - [IPFS Gateway Timer frame (GitHub)](https://github.com/eucalyptus-viminalis/ipfs-timer)
