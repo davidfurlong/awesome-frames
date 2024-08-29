@@ -4,6 +4,7 @@ A Frame lets you turn any website into an interactive Frame that other apps or w
 It’s a standard for creating interactive and authenticated experiences - Create polls, live feeds, interactive galleries or anything else you can imagine.
 
 [Farcaster Frames Docs](https://docs.farcaster.xyz/learn/what-is-farcaster/frames)
+[Dtech Vision Frames Explainer ] (https://dtech.vision/farcaster/frames/)
 
 ## Open Frames
 
