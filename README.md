@@ -18,7 +18,7 @@ Open Frames is a standard for Frames that work across ecosystems (XMTP, Lens, ..
 
 ## Quickstart: Make your first frame
 
-### Developer libraries for building frames
+### Developer libraries for building frames 
 
 - [Frames.js](https://framesjs.org) a framework for frames
 - [Frog](https://frog.fm/) a framework for frames
