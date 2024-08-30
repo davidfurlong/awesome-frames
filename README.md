@@ -55,6 +55,7 @@ Open Frames is a standard for Frames that work across ecosystems (XMTP, Lens, ..
 - [Create fc-polls](https://fc-polls.vercel.app/)
 - [Create polls](https://polls.dep.dev/)
 - [Quizframe.xyz](https://quizframe.xyz/), [Source Code](https://github.com/w1nt3r-eth/quizframe.xyz)
+- [Create a frame from a readable link](https://fc-reader.vercel.app/), [Source Code](https://github.com/anastasiarods/fc-reader)
 
 ## Useful Tools & Libraries
 
@@ -70,11 +71,12 @@ Open Frames is a standard for Frames that work across ecosystems (XMTP, Lens, ..
 - [framelib, build frames with python and flask](https://github.com/devinaconley/python-frames)
 - [ComposeCastxyz: privacy preserving cast composing gateway](https://github.com/0xSemicolon/composecastxyz)
 - [Glide: Let users pay with any token on any chain for in-frame transactions](https://docs.paywithglide.xyz/guides/farcaster-frames)
+- [Quickstart Farcaster Frames 101](https://dtech.vision/farcaster/frames/quickstart-farcasterframes/)
 
 ### Data & API Providers
 
 - [Neynar (Farcaster)](https://neynar.com/)
-- [Airstack Onchain Kit: APIs & SDK](https://link.airstack.xyz/frames)
+- [Airstack Farcaster Kit: APIs & SDK](https://link.airstack.xyz/frames)
 - [Web3 Bio](https://api.web3.bio/)
 - [Guide: Onchain Tx Confirmations using OnceUpon API](https://onceupon.notion.site/Public-How-to-use-tx-confirmations-in-your-Frame-w-Once-Upon-862883e5e15a49d5bc5005df69dc627f)
 - [Pinata - Hub, APIs](https://pinata.cloud/farcaster)
@@ -145,7 +147,6 @@ Open Frames is a standard for Frames that work across ecosystems (XMTP, Lens, ..
 - [Image gallery frame](https://github.com/Complexlity/image-gallery-frame)
 - [Redirect frame example](https://github.com/farcasterxyz/redirect-frame)
 - [Are We Frens frame](https://github.com/limone-eth/are-we-frens-frame)
-- [Airstack NFT frame](https://github.com/limone-eth/airstack-frame)
 - [Simple Lemon frame](https://github.com/limone-eth/lemon-frame)
 - [LFG token frame](https://github.com/edendao/lfg)
 - [Lu.ma Event Redirect Frame](https://github.com/thomas779/hackasado-frame)
@@ -167,6 +168,9 @@ Open Frames is a standard for Frames that work across ecosystems (XMTP, Lens, ..
 - [Coinframes.xyz Price Snapshot Frame](https://github.com/carlaiau/coinframes)
 - [Ai roast or praise farcaster user using composer action to create frame](
 https://github.com/koisose/ai-gaianet-composer)
+- [Ok Banger]()https://github.com/iammatthias/okbanger
+- [Farcaster Perpetual](https://github.com/jtgi/perpetual)
+- [shibuya.xyz - White Rabbit: Chapter 5 Game](https://github.com/jtgi/shibuya-chapter5)
 
 ### Custom GPTs
 
@@ -219,6 +223,11 @@ and many more
 - [Launchcaster](https://launchcaster.xyz)
 - [Buttrfly](https://buttrfly.app/)
 - [Hey](https://hey.xyz/)
+- [nounspace, customizable client where you can embed frames](https://nounspace.com)
 
 ## Frame Games
 - [HyperLoot: Dungeon War Season 1](https://warpcast.com/tandavas/0xa86ead6d)
+
+## Video Explanation 
+- [Quickstart Farcaster Frames 101](https://youtu.be/LwA5vAtBMnc?si=kHWvzcQeNKuOHO24)
+- [How to Create a Farcaster Frame](https://youtu.be/6OFgBzx4aSM?si=3NswMlh1e54ehVcb)
