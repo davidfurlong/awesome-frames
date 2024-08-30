@@ -76,7 +76,7 @@ Open Frames is a standard for Frames that work across ecosystems (XMTP, Lens, ..
 ### Data & API Providers
 
 - [Neynar (Farcaster)](https://neynar.com/)
-- [Airstack Onchain Kit: APIs & SDK](https://link.airstack.xyz/frames)
+- [Airstack Farcaster Kit: APIs & SDK](https://link.airstack.xyz/frames)
 - [Web3 Bio](https://api.web3.bio/)
 - [Guide: Onchain Tx Confirmations using OnceUpon API](https://onceupon.notion.site/Public-How-to-use-tx-confirmations-in-your-Frame-w-Once-Upon-862883e5e15a49d5bc5005df69dc627f)
 - [Pinata - Hub, APIs](https://pinata.cloud/farcaster)
@@ -147,7 +147,6 @@ Open Frames is a standard for Frames that work across ecosystems (XMTP, Lens, ..
 - [Image gallery frame](https://github.com/Complexlity/image-gallery-frame)
 - [Redirect frame example](https://github.com/farcasterxyz/redirect-frame)
 - [Are We Frens frame](https://github.com/limone-eth/are-we-frens-frame)
-- [Airstack NFT frame](https://github.com/limone-eth/airstack-frame)
 - [Simple Lemon frame](https://github.com/limone-eth/lemon-frame)
 - [LFG token frame](https://github.com/edendao/lfg)
 - [Lu.ma Event Redirect Frame](https://github.com/thomas779/hackasado-frame)
