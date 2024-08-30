@@ -40,22 +40,22 @@ Open Frames is a standard for Frames that work across ecosystems (XMTP, Lens, ..
 - [Frame Quiz](https://frame-quiz.vercel.app/) - Create a quiz
 - [Earncaster](https://earncaster.com/) - Reward Farcaster users for learning about your products or ideas
 - [Quizzup](https://quizzup.vercel.app/) - Create quiz frames, free, no login required
-- [Frames.sh](https://frames.sh)
-- [Foxtales](https://foxtales.fun)
-- [Frame Wizard](https://frame.wizard.xyz)
-- [Poll Build](https://poll.build) 
+- [Frames.sh](https://frames.sh) - Creates various types of frames, login required
+- [Foxtales](https://foxtales.fun) - Create visual frames for interactive stories
+- [Frame Wizard](https://frame.wizard.xyz) - Create frames in form of scrolls
+- [Poll Build](https://poll.build)  - Create polls/surveys and option to add incentives (for rapid responses)
+- [OGFlow](https://ogflow.app) - Create open-graph frames, login required
+- [Subcast](https://subcast.xyz) - Create easy to use frames, no login required
+- [Supframe](https://supframe.xyz) -  Create various frames, login required
+- [Frames Frames](https://framesframes.xyz) - Create giveaway frames, login required
+- [Canvass](https://canvass.fun) - Create polls, waitlist and crowdfunding frames, no login required 
+- [Create threads](https://fc-threads.vercel.app/) - Create Frames in forms of Threads, no login required
+- [Create fc-polls](https://fc-polls.vercel.app/) - Create simple polls, no login required
+- [Create polls](https://polls.dep.dev/) - Create polls, login required
+- [Quizframe.xyz](https://quizframe.xyz/), [Source Code](https://github.com/w1nt3r-eth/quizframe.xyz) - Create quizzes seamlessly with a cool UI, no login required
+- [Create a frame from a readable link](https://fc-reader.vercel.app/), [Source Code](https://github.com/anastasiarods/fc-reader)
 - [Frames Holder](https://frames.holder.xyz)
 - [Dropframe Create](https://dropframe.xyz/create)
-- [OGFlow](https://ogflow.app)
-- [Subcast](https://subcast.xyz)
-- [Supframe](https://supframe.xyz)
-- [Frames Frames](https://framesframes.xyz)
-- [Canvass](https://canvass.fun)
-- [Create threads](https://fc-threads.vercel.app/)
-- [Create fc-polls](https://fc-polls.vercel.app/)
-- [Create polls](https://polls.dep.dev/)
-- [Quizframe.xyz](https://quizframe.xyz/), [Source Code](https://github.com/w1nt3r-eth/quizframe.xyz)
-- [Create a frame from a readable link](https://fc-reader.vercel.app/), [Source Code](https://github.com/anastasiarods/fc-reader)
 
 ## Useful Tools & Libraries
 
