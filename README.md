@@ -231,3 +231,4 @@ and many more
 ## Video Explanation 
 - [Quickstart Farcaster Frames 101](https://youtu.be/LwA5vAtBMnc?si=kHWvzcQeNKuOHO24)
 - [How to Create a Farcaster Frame](https://youtu.be/6OFgBzx4aSM?si=3NswMlh1e54ehVcb)
+- [Farcaster Frames Beginner's Guide - Next.js & Local Testing](https://youtu.be/g_pkATT8pYU?si=gZC2Cft4THq5QOMl)
