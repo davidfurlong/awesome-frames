@@ -227,6 +227,7 @@ and many more
 
 ## Frame Games
 - [HyperLoot: Dungeon War Season 1](https://warpcast.com/tandavas/0xa86ead6d)
+- [Anansi Arcade](https://anansidata-miniapp.vercel.app) - Free Farcaster Mini App & browser arcade (Star Blaster, Bug Hunt, 60s Speed Quiz) with server-verified deterministic replay and live daily/weekly high-score leaderboards
 
 ## Video Explanation 
 - [Quickstart Farcaster Frames 101](https://youtu.be/LwA5vAtBMnc?si=kHWvzcQeNKuOHO24)
